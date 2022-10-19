@@ -12,8 +12,6 @@
 
 ``````
 
-# SCRABBLE CHALLENGE 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
