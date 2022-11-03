@@ -14,8 +14,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-We have a request from a client to write the software to control the flow of planes at an airport. The planes can land and take off provided that the weather is sunny. Occasionally it may be stormy, in which case no planes can land or take off. Here are the user stories that we worked out in collaboration with the client:
+I completed this as the first challenge in the Digital Futures Academy. This was my first exposure to test driven development and object-oriented programming. I completed all of the acceptance criteria, but not the extended criteria. Below are the user stories and requirements that my code had to meet: 
 
 #### Acceptance Criteria
 
@@ -108,51 +107,12 @@ Your code should defend against [edge cases](http://programmers.stackexchange.co
    ```sh
    npm install
    ```
-   
-### Running & Testing
-
-### Project Structure
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- PROBLEM STATEMENTS -->
-## Problem Statements
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-## Project Review
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+3. Run Tests
+   ```sh
+   npm test
+   ```
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
